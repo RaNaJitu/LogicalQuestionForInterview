@@ -1,0 +1,7 @@
+C:\Users\Monika\source\repos\LogicalQuestionWithAnswer\LogicalQuestionWithAnswer\bin\Debug\LogicalQuestionWithAnswer.exe.config
+C:\Users\Monika\source\repos\LogicalQuestionWithAnswer\LogicalQuestionWithAnswer\bin\Debug\LogicalQuestionWithAnswer.exe
+C:\Users\Monika\source\repos\LogicalQuestionWithAnswer\LogicalQuestionWithAnswer\bin\Debug\LogicalQuestionWithAnswer.pdb
+C:\Users\Monika\source\repos\LogicalQuestionWithAnswer\LogicalQuestionWithAnswer\obj\Debug\LogicalQuestionWithAnswer.csprojAssemblyReference.cache
+C:\Users\Monika\source\repos\LogicalQuestionWithAnswer\LogicalQuestionWithAnswer\obj\Debug\LogicalQuestionWithAnswer.csproj.CoreCompileInputs.cache
+C:\Users\Monika\source\repos\LogicalQuestionWithAnswer\LogicalQuestionWithAnswer\obj\Debug\LogicalQuestionWithAnswer.exe
+C:\Users\Monika\source\repos\LogicalQuestionWithAnswer\LogicalQuestionWithAnswer\obj\Debug\LogicalQuestionWithAnswer.pdb

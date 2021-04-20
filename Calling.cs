@@ -28,15 +28,37 @@ namespace LogicalQuestionWithAnswer
             //Console.WriteLine("***Print Fibonacci Series ***");
             //PrintFibonacciSeries pp = new PrintFibonacciSeries();
             //Console.WriteLine("***Check Given Numbers Fibonacci Series ***");
-            ////PrintFibonacciSerie pb = new PrintFibonacciSerie();
+
+
+            //PrintFibonacciSerie pb = new PrintFibonacciSerie();
             //pp.PrintFibonacciSerie(55);
 
-            Console.WriteLine("**Check Prime Numbers **");
-            PrimeNumber pn = new PrimeNumber();
-            pn.PrintPrimeNumber(100);
+            //Console.WriteLine("**Check Prime Numbers **");
+            //PrimeNumber pn = new PrimeNumber();
+            //pn.PrintPrimeNumber(100);
+
+            //OneDArray ad = new OneDArray();
+            //ad.twoDArray();
 
 
+            //MinMaxArray mma = new MinMaxArray();
+            //mma.maxMin();
 
+
+            //FactorialExample fe = new FactorialExample();
+            //fe.factorial();
+
+
+            //SumOfDifits sd = new SumOfDifits();
+            //sd.SumExample();
+
+
+            PalindromeNumber pn = new PalindromeNumber();
+            pn.PalindromeExample();
+
+
+            //ArmstrongNumber an = new ArmstrongNumber();
+            //an.ArmstrongExample();
         }
     }
 }

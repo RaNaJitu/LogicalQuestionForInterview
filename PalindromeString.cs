@@ -34,7 +34,7 @@ namespace LogicalQuestionWithAnswer
                 Console.WriteLine("String is not Palindrom");
             Console.ReadLine();
         }
-
+        //this is 2nd meyhods
         public PalindromeString(string s)
         {
             String str="";

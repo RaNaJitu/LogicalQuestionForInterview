@@ -43,10 +43,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArmstrongNumber.cs" />
     <Compile Include="Calling.cs" />
+    <Compile Include="FactorialExample.cs" />
+    <Compile Include="MinMaxArray.cs" />
+    <Compile Include="OneDArray.cs" />
+    <Compile Include="PalindromeNumber.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="PrintFibonacciSeries.cs" />
+    <Compile Include="ReverseNumbers.cs" />
+    <Compile Include="SumOfDifits.cs" />
     <Compile Include="SumOfDigits.cs" />
     <Compile Include="SwapingWithoutTamp.cs" />
     <Compile Include="SwapingWithTamp.cs" />

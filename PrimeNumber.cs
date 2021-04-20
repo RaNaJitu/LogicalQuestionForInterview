@@ -8,6 +8,7 @@ namespace LogicalQuestionWithAnswer
 {
     public class PrimeNumber
     {
+        //Check Number is prime Number or not
         public PrimeNumber()
         {
             int count = 0;
@@ -28,6 +29,7 @@ namespace LogicalQuestionWithAnswer
 
             Console.ReadLine();
         }
+        //Print prime Numbers upto 100
         public void  PrintPrimeNumber(int num)
         {
             
